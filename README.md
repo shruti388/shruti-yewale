@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shruti388.github.io/portfolioweb/](https://shruti388.github.io/portfolioweb/)
 
-- 📫 How to reach me **shrutiyewale219@gmail.com**
+- 📫 How to reach me **shrutiyewale219@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
